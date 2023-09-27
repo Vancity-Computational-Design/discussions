@@ -1,5 +1,6 @@
 # Session 3
 Talk Topic: Open-source in the AEC Industry
+
 Speaker: Callum Sykes
 
 ## Overview
