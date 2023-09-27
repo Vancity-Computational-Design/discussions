@@ -14,7 +14,7 @@ Some benefits of doing Opensource is that:
 - It can increases trust in the product.
 - Provides notoriety
 
-## Doing Open-source on your own
+## Doing Open-source on Your Own
 The most important thing is to get started! Start a impossible task, and fail the whole way. It's okay to fail.
 Where you can, start automating your job (but don't tell anyone when you've automated it).
 In the AEC industry, there is a lot of space for automation, so many projects will be useful.
@@ -31,7 +31,7 @@ Opensource will also help give your organization a reputation of being on the cu
 ## Questions and Audience Discussion
 The following notes arose from audience questions and discussion.
 
-### On Automation in general
+### On Automation in General
 It always feels really hard to find time to automate things.
 There is always a fire to put out, or a reason why not to do something now.
 You might as well try and automate now.
